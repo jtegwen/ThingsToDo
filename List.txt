@@ -1,6 +1,5 @@
 Due next week
-  Moving
-  Austria essay
+  Austria essay(other can help)
   order Textbooks
     Order Textbooks
       list required Books
@@ -10,13 +9,14 @@ Due next week
         Alternate Course
       (done)get online textbooks
       Order textbooks through ACG
+        email ACG for help
   ACG visa
     visa
       Scan
       submit
-  Austrian visa Requirements
+  Austrian visa Requirements(other can help)
   Repair Laptop
-    Return part
+    (done)Return part
     Order part
     Pickup part(not home)
     Install part
@@ -28,36 +28,6 @@ Things to buy
   luggage
 ACG Long term(not home)(cant drop)
   Transfer money
-Lock down electronics
-  change email password
-  reinstall mac
-    ask Shawn about the need for convenience
-    list needed apps
-      office
-      video conference software
-        get name from Paul
-      Brew
-        github
-        wget
-        git
-        youtube-dl
-      Brew-Cask
-        atom
-        caffeine
-        deluge
-        discord
-        flux
-        foxitreader
-        github
-        libreoffice
-        logmein-hamachi
-        nosleep
-        private-internet-access
-        spideroakone
-        sublime-text
-        vivaldi
-  reinstall Phone
-    list needed apps
 Austrian visa(cant drop)
   Requirements gather
     Visa Application
@@ -106,8 +76,7 @@ Get Haircut(not home)
   Find Salon
   Schedule appointment
   go to appointment(not home)
-Fix laptop(not home)
-Do Strength finders
+Do Strength finders (2 hours)
 Talk to Shawn about safety
   (done)Send Email
   Set date
@@ -153,3 +122,4 @@ Meal with Will(not home)
     Books(boxes)
     Clothes
     Misc.(boxes)
+(done)Moving

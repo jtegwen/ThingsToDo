@@ -38,6 +38,23 @@ Austrian visa(cant drop)
 Apply to Austria(cant drop)
   Apply to program
     Write on prompt
+Apply for Vienna scholarship(Need others help)
+  Write on prompt
+Get Haircut(not home)
+  figure out what to do with hair
+  Find Salon
+  Schedule appointment
+  go to appointment(not home)
+Do Strength finders (2 hours)(augstem)
+Talk to Shawn about safety
+  (done)Send Email
+  Think of questions
+  Meet with Shawn
+Rewatch nuts and bolts video
+  take notes
+Plan January
+  Where to store luggage
+
 Pack(cant drop)
   figure out
   Define things to bring
@@ -69,31 +86,7 @@ Pack(cant drop)
       Nail clipper
       brush
       Headphones
-Apply for Vienna scholarship(Need others help)
-  Write on prompt
-Get Haircut(not home)
-  figure out what to do with hair
-  Find Salon
-  Schedule appointment
-  go to appointment(not home)
-Do Strength finders (2 hours)
-Talk to Shawn about safety
-  (done)Send Email
-  Set date
-  Think of questions
-    Where (not) to travel
-  Meet with Shawn
-Rewatch nuts and bolts video
-  take notes
-(done)Get together(not home)
-  (done)Define date
-  (done)Email date
-  go to get together(not home)
-Plan January
-  Where to store luggage
-Meal with Will(not home)
-  Write prompt
-  Due 7/30
+
 (Done)Second credit union account
   (Done)State Department Federal Credit Union
 (Done)Give Andrea second signed registration form
@@ -123,3 +116,7 @@ Meal with Will(not home)
     Clothes
     Misc.(boxes)
 (done)Moving
+(done)Get together(not home)
+  (done)Define date
+  (done)Email date
+  go to get together(not home)

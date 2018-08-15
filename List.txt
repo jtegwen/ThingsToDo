@@ -1,24 +1,33 @@
-ACG prep(not home)(cant drop)
-  Med 2,3(not home)
-    (done)Print
-    (done)Get stamped
-    (done)scan
-    submit
-  Photo
-    Scan
-    submit
+Due next week
+  Moving
+  Austria essay
+  order Textbooks
+    Order Textbooks
+      list required Books
+        (done)AI Principles
+        Theory of Knowledge
+        Postmodern Philosophy
+        Alternate Course
+      (done)get online textbooks
+      Order textbooks through ACG
+  ACG visa
+    visa
+      Scan
+      submit
+  Austrian visa Requirements
+  Repair Laptop
+    Return part
+    Order part
+    Pickup part(not home)
+    Install part
+    (done)Get new charger
+Things to buy
+  (optional)socks
+  (optional)Underwear
+  rain jacket
+  luggage
+ACG Long term(not home)(cant drop)
   Transfer money
-  (Done)Housing for week
-  visa
-    Scan
-    submit
-  (done)Linen form
-    (done)fill out
-    (done)Scan
-    (done)submit
-  Order Textbooks
-    (done)get online textbooks
-    Order textbooks through ACG
 Lock down electronics
   change email password
   reinstall mac
@@ -79,7 +88,6 @@ Pack(cant drop)
     Wallet
       Remove unneeded stuff
     Dice
-
     Saddles
       Get on Wednesday or Schedule with Brian
     Shoes
@@ -91,15 +99,6 @@ Pack(cant drop)
       Nail clipper
       brush
       Headphones
-Store belongings(Need others help)(cant drop)
-  (Done)List things for Mom for storage
-    Table
-    Futon
-    Coffee table
-    Cookware(boxes)
-    Books(boxes)
-    Clothes
-    Misc.(boxes)
 Apply for Vienna scholarship(Need others help)
   Write on prompt
 Get Haircut(not home)
@@ -108,11 +107,7 @@ Get Haircut(not home)
   Schedule appointment
   go to appointment(not home)
 Fix laptop(not home)
-  Return part
-  Order part
-  Pickup part(not home)
-  Install part
-  Get new charger
+Do Strength finders
 Talk to Shawn about safety
   (done)Send Email
   Set date
@@ -120,7 +115,8 @@ Talk to Shawn about safety
     Where (not) to travel
   Meet with Shawn
 Rewatch nuts and bolts video
-Get together(not home)
+  take notes
+(done)Get together(not home)
   (done)Define date
   (done)Email date
   go to get together(not home)
@@ -132,3 +128,28 @@ Meal with Will(not home)
 (Done)Second credit union account
   (Done)State Department Federal Credit Union
 (Done)Give Andrea second signed registration form
+  (Done)Print
+  (Done)sign
+  (Done)give
+(done)Med 2,3(not home)
+  (done)Print
+  (done)Get stamped
+  (done)scan
+  (done)submit
+(done)Photo
+  Scan
+  submit
+  (Done)Housing for week
+(done)Linen form
+    (done)fill out
+    (done)Scan
+    (done)submit
+(done)Store belongings(Need others help)(cant drop)
+  (Done)List things for Mom for storage
+    Table
+    Futon
+    Coffee table
+    Cookware(boxes)
+    Books(boxes)
+    Clothes
+    Misc.(boxes)

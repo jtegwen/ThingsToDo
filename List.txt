@@ -47,6 +47,12 @@ Due next week
     Pickup part(not home)
     Install part
     (done)Get new charger
+Work on Mom's server 
+  Samba 
+    Where are files stored for each user: 
+    Where are files stored for Brian and Joelle (finances, etc.): 
+    Where are "public" files stored: 
+  VPN 
 Things to buy
   (optional)socks
   (optional)Underwear

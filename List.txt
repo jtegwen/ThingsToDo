@@ -1,12 +1,6 @@
-
 Today
-  make appointments
-    ann
-    dvorick
-    rachel
   work on essay
   order Books
-  call austrian consilate
   Rewatch nuts and bolts video
     take notes
   ACG visa
@@ -41,12 +35,6 @@ Due next week
     visa
       Scan
       submit
-  Repair Laptop
-    (done)Return part
-    Order part
-    Pickup part(not home)
-    Install part
-    (done)Get new charger
 Work on Mom's server
   Samba
     Where are files stored for each user:
@@ -56,17 +44,16 @@ Work on Mom's server
 Things to buy
   (optional)socks
   (optional)Underwear
-  rain jacket
+  (could get there)rain jacket
+  (should get)hostel shoes
   luggage (Mom)
-    backpacking pack (preferably one that can work as a school bag as well)
+    (done)backpacking pack (preferably one that can work as a school bag as well)
     Padlock
     smaller lock
     luggage zipper lock (if needed)
 ACG Long term(not home)(cant drop)
   Transfer money
 Austrian visa(cant drop)
-  Requirements gather
-    Visa Application
   Gather requirements
     Call honorary consulate for requirements
     Complete Visa Application
@@ -138,7 +125,7 @@ Pack(cant drop)
       Nexus 5X
     Wallet
       Remove unneeded stuff
-    Sandles
+    (Done)Sandles
       (Done) Get on Wednesday or Schedule with Brian
     Headphones
     One change of clothes
@@ -177,3 +164,15 @@ Pack(cant drop)
   (done)Define date
   (done)Email date
   go to get together(not home)
+(Done)Repair Laptop
+  (done)Return part
+  Order part
+  Pickup part(not home)
+  Install part
+  (done)Get new charger
+(done)make appointments
+  ann
+  dvorick
+  rachel
+(done)Requirements gather
+  Visa Application

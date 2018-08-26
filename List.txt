@@ -34,10 +34,10 @@ Due next week
       Scan
       submit
 Work on Mom's server
-  Samba
-    Where are files stored for each user:
-    Where are files stored for Brian and Joelle (finances, etc.):
-    Where are "public" files stored:
+  Sambahttps://unix.stackexchange.com/questions/48179/sharing-multiple-folders-with-samba
+  Joelle: /home/joelle
+  Brian /home/brian
+  Both /home/family 
   VPN
 Things to buy
   (done)power bank

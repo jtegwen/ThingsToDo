@@ -34,11 +34,12 @@ Due next week
       Scan
       submit
 Work on Mom's server
-  Sambahttps://unix.stackexchange.com/questions/48179/sharing-multiple-folders-with-samba
+  Samba https://unix.stackexchange.com/questions/48179/sharing-multiple-folders-with-samba
   Joelle: /home/joelle
   Brian /home/brian
-  Both /home/family 
+  Both /home/family and /home/media
   VPN
+Set up recurring payment with Firstmark
 Things to buy
   (done)power bank
   (optional)socks
